@@ -1,0 +1,17 @@
+{
+  "name": "multiplication-chart-js",
+  "version": "1.0.0",
+  "description": "Generate multiplication tables, times charts, and printable math grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["multiplication", "times-table", "math", "chart", "printable"],
+  "author": "wsmhj",
+  "license": "MIT",
+  "homepage": "https://multiplicationchartprintable.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsmhj/multiplication-chart-js.git"
+  }
+}
